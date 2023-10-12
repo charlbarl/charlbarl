@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlbarl
 - 👀 I’m interested in parallel processing using NVIDIA CUDA, partial differential equations, N-Body simulations, Eurorack Modular synthesis, and more...
-- 🌱 I’m currently learning digital musical syntheis programming in Arduino IDE. 
+- 🌱 I’m currently learning AtmelStudio uC programming and digital musical syntheis programming in Arduino IDE. 
 - 💞️ I’m looking to collaborate on Eurorack projects!
 
 <!---
